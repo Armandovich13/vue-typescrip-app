@@ -29,5 +29,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Run storybook
+```
 npm run storybook
+```
 (fails)
